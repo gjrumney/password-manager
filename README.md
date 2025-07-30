@@ -8,3 +8,4 @@ A simple, JSON-based password manager 🔑
 - First time, too, for finding old code useful: looking to the generating password function.
 - As a reward, dad has handed me an enormous book detailing the _Python 3 Standard Library by Example_.
 - Functionality-wise, a master-password feature was suggested - WIP!
+- Also addicted to this `clear_console()` beauty! I hate a cluttered terminal. I should try a GUI.
